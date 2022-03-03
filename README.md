@@ -1,4 +1,4 @@
-![Qwakeactyl](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
+![Qwakeactyl](https://cdn.discordapp.com/attachments/883199852966719490/948928633312006224/unknown.png)
  
 <hr>
 
@@ -62,7 +62,7 @@ $ npm start
 
 # Themes
 
-![normal](https://media.discordapp.net/attachments/939868719507718165/940867934648143912/unknown.png?width=985&height=447)
+![normal](https://cdn.discordapp.com/attachments/883199852966719490/948928633312006224/unknown.png)
 
 
 

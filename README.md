@@ -19,6 +19,19 @@ All features:
 - API (for a lot things)
 - Legal (tos/pp in footer & its own page)
 - user friendly
+- widget
+- status
+
+# what's New
+- widget Added
+- fixed bug
+- Fixed server creation error
+- resloved API
+- Added google and custom ads option
+- Added status
+- New Login Page 
+- Removed drak white theme
+
 # Warning
 
 We cannot force you to keep the "Powered by Qwakeactyl" in the footer, but please consider keeping it. It helps getting more visibility to the project and so getting better. We won't do technical support for installations without the notice in the footer.
@@ -37,7 +50,7 @@ only for windows installer
 
 # install in VPS
 ```yml
-$ bash <(curl -s https://raw.githubusercontent.com/Nightmaregodss/qwakeactyl-installer-assets/main/installer.sh)
+comming soon
 ```
 
 # start command
@@ -48,7 +61,7 @@ $ npm start
 <hr>
 
 # Themes
-![dw](https://media.discordapp.net/attachments/939526295434444850/940603150044377178/unknown.png)
+
 ![normal](https://media.discordapp.net/attachments/939868719507718165/940867934648143912/unknown.png?width=985&height=447)
 
 

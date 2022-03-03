@@ -1,12 +1,12 @@
 body {
     
-    background-color: #121212; /* fallback for old browsers */
+    background-color: #000000; /* fallback for old browsers */
    
   }
 
 .login-dark {
     height:1000px;
-    background:#27292918 url(https://i2.wp.com/i.pinimg.com/originals/ef/7e/3b/ef7e3ba266df0b740bd7dd10b5d9182b.jpg);
+    background:#3e3737 url(https://cdn.discordapp.com/attachments/943921350152704000/947027762500227132/istockphoto-1320110490-612x612.jpg);
     background-size:cover;
     position:relative;
   }
@@ -14,14 +14,14 @@ body {
   .login-dark form {
     max-width:520px;
     width:90%;
-    background-color:#000000;
+    background-color:#ffffff;
     padding:40px;
     border-radius:4px;
     transform:translate(-50%, -50%);
     position:absolute;
     top:50%;
     left:50%;
-    color:#fff;
+    color:#5e5e5e;
     box-shadow:3px 3px 4px rgba(0,0,0,0.2);
   }
   

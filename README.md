@@ -49,9 +49,21 @@ Node.js [Download](https://nodejs.org/en/download/)
 only for windows installer
 
 # install in VPS
-```yml
-comming soon
-```
+
+<h2>Installing Dependencies</h2>
+
+`sudo apt update && sudo apt upgrade`<br>
+`sudo apt install git`<br>
+`curl -fsSL https://deb.nodesource.com/setup_14.x | sudo bash -`<br>
+`apt install nodejs`<br>
+`npm -v`<br>
+`git clone https://github.com/Qwakeactyl/Qwakeactyl.git`<br>
+`cd Reliactyl`<br>
+`npm install`<br>
+`apt install nginx`<br>
+`sudo apt install certbot`<br>
+`sudo apt install -y python3-certbot-nginx`
+
 
 # start command
 ```js

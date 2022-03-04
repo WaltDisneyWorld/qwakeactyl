@@ -21,6 +21,8 @@ All features:
 - user friendly
 - widget
 - status
+- donate nav
+- discord nav
 
 # what's New
 - widget Added

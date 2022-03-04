@@ -36,6 +36,16 @@
       "enabled": true,
       "note": "this will allow u to use gift rescources."
     },
+    
+      "discordserver":{
+      "enabled": true,
+      "invitelink": ""
+    },
+      "donate":{
+      "enabled": true,
+      "link": ""
+    },
+ 
    
     "database": "database.sqlite",
     "api": {

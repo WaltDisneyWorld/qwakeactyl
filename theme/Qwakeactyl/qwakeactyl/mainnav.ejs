@@ -1,4 +1,4 @@
-    <nav class="sidenav navbar navbar-vertical  fixed-left  navbar-expand-xs navbar-light bg-white" id="sidenav-main">
+        <nav class="sidenav navbar navbar-vertical  fixed-left  navbar-expand-xs navbar-light bg-white" id="sidenav-main">
         <div class="scrollbar-inner">
             <div class="sidenav-header  align-items-center">
                 <a class="navbar-brand" href="javascript:void(0)">
@@ -61,6 +61,26 @@
                             </a>
                         </li>
                         <% } %>
+
+                         <% if (settings.discordserver.enabled == true) { %>
+                        <li class="nav-item">
+                            <a class="nav-link" href="<%= settings.discordserver.invitelink %>">
+                                <i class="fab fa-discord text-blue"></i>
+                                <span class="nav-link-text">Discord</span>
+                            </a>
+                        </li>  
+                        <% } %>
+                        
+                        <% if (settings.donate.enabled == true) { %>
+                           <li class="nav-item">
+                            <a class="nav-link" href="<%= settings.donate.link %>">
+                                <i class="fas fa-donate text-yellow"></i>
+                                <span class="nav-link-text">Donate us</span>
+                            </a>
+                        </li>  
+    
+                        <% } %>
+                        
                         
                       
                         <li class="nav-item">

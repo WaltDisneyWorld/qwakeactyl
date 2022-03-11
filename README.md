@@ -60,7 +60,7 @@ only for windows installer
 `apt install nodejs`<br>
 `npm -v`<br>
 `git clone https://github.com/Qwakeactyl/Qwakeactyl.git`<br>
-`cd Reliactyl`<br>
+`cd Qwakeactyl`<br>
 `npm install`<br>
 `apt install nginx`<br>
 `sudo apt install certbot`<br>
